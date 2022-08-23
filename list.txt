@@ -1,0 +1,16 @@
+DONE:
+1. Load Model
+2. Render Model (Textured)
+3. Camera Controls
+4. Imgui integration
+5. Wireframe
+6. Separate shaders
+7. Light
+8. Screenshot (Framebuffer only, no GUI elements)
+9. Basic stats
+10. Reload another model
+11. Post-processing shader
+12. Logging stats onto console/file
+
+TODO:
+1. Resize issues
